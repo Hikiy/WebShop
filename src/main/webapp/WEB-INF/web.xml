@@ -4,7 +4,6 @@
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
-<<<<<<< HEAD
   <servlet>
   	<servlet-name>spring-dispatcher</servlet-name>
   	<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
@@ -18,6 +17,4 @@
   	<!-- 默认匹配所有请求 -->
   	<url-pattern>/</url-pattern>
   </servlet-mapping>
-=======
->>>>>>> d61792d80b7c616c4c4c7f850470c3c2b060b2c9
 </web-app>
